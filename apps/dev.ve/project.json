@@ -1,0 +1,9 @@
+{
+  "name": "dev.ve",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/dev.ve",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project dev.ve --web",
+  "targets": {}
+}
